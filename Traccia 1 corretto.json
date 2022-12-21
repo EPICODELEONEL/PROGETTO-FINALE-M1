@@ -109,12 +109,12 @@
       "content": "Documentation is excellent and exhaustive, making it easy to get started with C#."
     }
   ],
-  "tags": [
+  "tags": [{
     "runtime/jvm",
     "platform/windows",
     "platform/linux",
     "paradigm/declarative",
     "paradigm/functional",
     "paradigm/object_oriented"
-  ]
+  }]
 }
