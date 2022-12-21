@@ -1,0 +1,21 @@
+<macchina>
+<tesla_motors>
+<car category="macchina elettrica">
+<veicolo>
+<modello>Tesla model &quot; s</modello>
+<velocita>da 250 a 322 km/h</velocita>
+<potenza>da 670 a 1.020 CV</potenza>
+<produzione>dal 2012</produzione>
+<batteria>100 kWh 407 V ioni di litio</batteria>
+<dimenzioni>
+<larghezza>1.987 mm</larghezza>
+<lungezza>5.021 mm</lungezza>
+<altezza>1.431 mm</altezza>
+<costo>A partire da € 104.990</costo>
+</dimenzioni>
+</veicolo>
+</car>
+</tesla_motors>
+</macchina>
+<!--in questo dataset ho rappresentato una macchina elettrica del'azienda tesla motors nello specifico il modello s
+riportando 1 nodo radice"macchina" 10 nodi figli di cui 2 con un attributo e senza piu un entity reference "&quot" che sta per significare sopranome-->
