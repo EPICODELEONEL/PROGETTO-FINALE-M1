@@ -14,7 +14,7 @@
     "indent_style":"space",
     "indent_size": 4,
     "highlightjs_language": "csharp"
-  },
+  },{
 
   "test_runner":true,
     "average_run_time": 2.3
