@@ -1,0 +1,14 @@
+{
+"company":"Tesla",
+"posizione":"ceo",
+"nome":"Elon",
+"sopranome":null,
+"cognome":"Musk",
+"eta": 51,
+"nazionalità":"sud_africano",
+"patrimonio_netto":"163,5 miliardi USD",
+"owner_of_Twitter": false,
+"azienda_di_proprieta":["Twitter","The Boring Company", "Neuralink","OpenAI"],
+"figli":[{"nome":"Saxon","cognome":"musk"},{"nome":"Damian","cognome":"musk"},{"nome":"Kai","cognome":"musk"},{"nome":"Griffin","cognome":"musk"},{"nome":"X Æ A-Xii","cognome":"musk"}],
+"commento":"questo_dataset_rappresenta_il_C.E.O_della_Tesla_Elon_Mask"
+}
