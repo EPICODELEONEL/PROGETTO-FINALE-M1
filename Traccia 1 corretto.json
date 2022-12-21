@@ -55,8 +55,7 @@
         "difficulty": 2,
         "status": "beta"
       }
-    ]
-  },
+    ],
   "concepts": [
     {
       "uuid": "2eb4a463-355f-46ef-ac55-a75ec5afdf86",
@@ -79,32 +78,32 @@
       "name": "Strings"
     }
   ],
-  "key_features": [
-    [
+  "key_features":
+    [{
       "icon", "expressive",
       "title", "Modern",
       "content", "C# is a modern, fast-evolving language."
-    ],
-    [
+    },
+     {
       "icon", "cross-platform",
       "title", "Cross-platform",
       "content", "C# runs on almost any platform and chipset."
-    ],
-    [
+     },
+     {
       "icon", "multi-paradigm",
       "title", "Multi-paradigm",
       "content", "C# is primarily an object-oriented language, but also has lots of functional features."
-    ],
-    [
-      "icon", "general-purpose",
-      "title", "General purpose",
-      "content", "C# can be used for a wide variety of workloads, like websites, console applications, and even games."
-    ],
-    [
-      "icon", "tooling",
-      "title", "Tooling",
-      "content", "C# has excellent tooling, with linting and advanced refactoring options built-in."
-    ],
+     },
+     {
+      "icon":"general-purpose",
+      "title":"General purpose",
+      "content":"C# can be used for a wide variety of workloads, like websites, console applications, and even games."
+     },
+     {
+      "icon":"tooling",
+      "title":"Tooling",
+      "content":"C# has excellent tooling, with linting and advanced refactoring options built-in."
+     },
     {
       "icon": "documentation",
       "title": "Documentation",
@@ -112,11 +111,11 @@
     }
   ],
   "tags": [
-    "runtime/jvm"
-    "platform/windows"
-    "platform/linux"
-    "paradigm/declarative"
-    "paradigm/functional"
+    "runtime/jvm",
+    "platform/windows",
+    "platform/linux",
+    "paradigm/declarative",
+    "paradigm/functional",
     "paradigm/object_oriented"
   ]
 }
