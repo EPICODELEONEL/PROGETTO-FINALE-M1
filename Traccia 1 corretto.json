@@ -36,7 +36,7 @@
         "prerequisites": ["basics"],
         "status": "wip"
       }
-    },
+    
     "practice": [
       {
         "slug": "hello-world",
@@ -56,7 +56,7 @@
         "status": "beta"
       }
     ]
-  },
+  
   "concepts": [
     {
       "uuid": "2eb4a463-355f-46ef-ac55-a75ec5afdf86",
